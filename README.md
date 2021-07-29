@@ -1,6 +1,8 @@
+### Hi there 👋   I'm Harshit Singh!!
+
+
 <img align="center" src="https://github.com/HarshuSingh/HarshuSingh/blob/main/WhatsApp%20Image%202021-07-30%20at%201.40.07%20AM.jpeg"/></a>
 
-### Hi there 👋   I'm Harshit Singh!!
 
 ## ABOUT ME
 Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into practical field. Experience is the name everyone gives to their mistakes.
