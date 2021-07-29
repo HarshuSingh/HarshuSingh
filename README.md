@@ -9,7 +9,7 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 - 🍎 Data Science & Machine Learning
 - 🌟 TCR Innovation Intern
-- ⚡️ Internmind Campus Ambassador internshipAmbassado
+- ⚡️ Internmind Campus Ambassador 
 - 👨🏻‍💻 Front End Developer
 - 🔭 Open Source Enthusiastic
 
