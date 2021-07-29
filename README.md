@@ -17,5 +17,6 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 
 ## TOP PROGRAMMING LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Tusername-HarshuSingh&theme=radical&title_color=#E2DE26text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshuSingh&layout=compact)](https://github.com/HarshuSingh/github-readme-stats)
+
 |---|---|
