@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/HarshuSingh/HarshuSingh/blob/main/WhatsApp%20Image%202021-07-30%20at%201.40.07%20AM.jpeg"/></a>
-
-
+<img align="center" src="68747470733a2f2f692e696d6775722e636f6d2f5451486b6972682e676966.gif"/></a>
+     
 ### Hi there 👋   I'm Harshit Singh!!
 
 
